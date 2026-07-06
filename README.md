@@ -68,13 +68,13 @@ The dataset contains **50,000 IT support tickets** with fields such as:
 
 ### 🟦 Page 1 — IT Support Cost Optimization & Operations Overview
 
-![IT Support Cost Optimization & Operations Overview](images/Page%201%20IT%20Support%20Cost%20Optimization%20%26%20Operations%20Overview.png)
+![IT Support Cost Optimization & Operations Overview](docs/Page%201%20IT%20Support%20Cost%20Optimization%20%26%20Operations%20Overview.png)
 
 This page tracks support cost, engineer workload, escalation patterns, issue-category contribution, priority, and client-type filters.
 
 ### 🟪 Page 2 — Customer Satisfaction & Resolution Analysis
 
-![Customer Satisfaction & Resolution Analysis](images/Page%202%20Customer%20Satisfaction%20%26%20Resolution%20Analysis.png)
+![Customer Satisfaction & Resolution Analysis](docs/Page%202%20Customer%20Satisfaction%20%26%20Resolution%20Analysis.png)
 
 This page analyzes CSAT performance, resolution speed, resolution time by issue category, escalation volume, and CSAT target achievement.
 
@@ -138,30 +138,9 @@ it-support-cost-optimization/
 ├── powerbi/
 │   └── IT_Support_Cost_Optimization_Dashboard.pbix
 │
-├── images/
-│   ├── Page 1 IT Support Cost Optimization & Operations Overview.png
-│   └── Page 2 Customer Satisfaction & Resolution Analysis.png
-│
 ├── docs/
+│   ├── Page 1 IT Support Cost Optimization & Operations Overview.png
+│   ├── Page 2 Customer Satisfaction & Resolution Analysis.png
 │   └── IT_Support_Cost_Optimization_Dashboard.pdf
 │
 └── README.md
-```
-
----
-
-## 🧠 Skills Demonstrated
-
-- SQL data modeling and view creation
-- Data validation and business analysis queries
-- KPI design using DAX
-- Power BI dashboard design and data storytelling
-- Cost, workload, escalation, and CSAT analysis
-- Translating analysis into operational recommendations
-
----
-
-## 👤 Author
-
-**Kaushal Gaur**  
-Data Analyst
