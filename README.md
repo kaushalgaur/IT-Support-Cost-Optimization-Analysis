@@ -1,6 +1,6 @@
-# 📊 IT Support Cost Optimization & Customer Satisfaction Analysis
+# IT Support Cost Optimization & Customer Satisfaction Analysis
 
-## 🚀 Overview
+## Overview
 
 This project is an end-to-end **IT support analytics solution** built to analyze support-ticket cost, engineer workload, escalations, resolution performance, and customer satisfaction.
 
@@ -8,7 +8,7 @@ The analysis uses a dataset of **50,000 IT support tickets** and converts operat
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 IT support teams need to reduce support costs while maintaining fast resolution times and high customer satisfaction.
 
@@ -22,7 +22,7 @@ This project addresses the following management objectives:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains **50,000 IT support tickets** with fields such as:
 
@@ -43,7 +43,7 @@ The dataset contains **50,000 IT support tickets** with fields such as:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **MySQL** → Data creation, cleaning, validation, views, and business analysis queries
 - **Python** → Exploratory analysis and supporting analysis
@@ -52,7 +52,7 @@ The dataset contains **50,000 IT support tickets** with fields such as:
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 
 1. Created and loaded the IT support ticket dataset in MySQL  
 2. Performed data validation and cleaning checks  
@@ -64,15 +64,15 @@ The dataset contains **50,000 IT support tickets** with fields such as:
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 
-### 🟦 Page 1 — IT Support Cost Optimization & Operations Overview
+### Page 1 — IT Support Cost Optimization & Operations Overview
 
 ![IT Support Cost Optimization & Operations Overview](docs/Page%201%20IT%20Support%20Cost%20Optimization%20%26%20Operations%20Overview.png)
 
 This page tracks support cost, engineer workload, escalation patterns, issue-category contribution, priority, and client-type filters.
 
-### 🟪 Page 2 — Customer Satisfaction & Resolution Analysis
+### Page 2 — Customer Satisfaction & Resolution Analysis
 
 ![Customer Satisfaction & Resolution Analysis](docs/Page%202%20Customer%20Satisfaction%20%26%20Resolution%20Analysis.png)
 
@@ -80,7 +80,7 @@ This page analyzes CSAT performance, resolution speed, resolution time by issue 
 
 ---
 
-## 📌 Key KPIs
+## Key KPIs
 
 | KPI | Value |
 |---|---:|
@@ -96,7 +96,7 @@ This page analyzes CSAT performance, resolution speed, resolution time by issue 
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **Hardware** issues have the highest support cost at approximately **40.18M**.
 - **Hardware and Access** together contribute approximately **39.5%** of total support cost.
@@ -108,7 +108,7 @@ This page analyzes CSAT performance, resolution speed, resolution time by issue 
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Prioritize root-cause analysis and preventive maintenance for **Hardware** and **Access** issues to reduce the largest cost drivers.
 - Create dedicated escalation workflows for **High** and **Critical** tickets to control escalation volume.
@@ -119,7 +119,7 @@ This page analyzes CSAT performance, resolution speed, resolution time by issue 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 it-support-cost-optimization/
